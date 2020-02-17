@@ -1,1 +1,3 @@
-terraform module for building a bastion host autoscale group 
+# terraform-aws-iam-group 
+
+terraform module for building aws IAM groups.
